@@ -1,7 +1,5 @@
-package exercicios;
+package listaExercicio1;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 //		Crie um programa que receba um valor inteiro informado pelo usuário e determine se esse valor é umnúmero primo.

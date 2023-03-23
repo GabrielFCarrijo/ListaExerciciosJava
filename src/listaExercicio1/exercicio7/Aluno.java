@@ -1,4 +1,4 @@
-package exercicios.exercicio7;
+package listaExercicio1.exercicio7;
 
 //Crie uma classe que represente um aluno considerando os atributos:nome,p1,p2.
 //Em outra classe,no mesmo pacote crie uma classe principal(Main.java)e:

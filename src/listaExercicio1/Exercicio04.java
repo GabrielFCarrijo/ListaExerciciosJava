@@ -1,10 +1,8 @@
-package exercicios;
+package listaExercicio1;
 
 //Crie um programa que receba um número inteiro n e leia n valores do teclado e compute
 // quantos destes valores são negativos.
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Exercicio04 {

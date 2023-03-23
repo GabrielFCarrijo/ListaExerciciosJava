@@ -1,4 +1,4 @@
-package exercicios.exercicio8;
+package listaExercicio1.exercicio8;
 
 public class Somatoria {
     
