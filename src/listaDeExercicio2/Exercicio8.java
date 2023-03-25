@@ -13,9 +13,6 @@ public class Exercicio8 {
 
     public static void main(String[] args) {
 
-        Locale ptBr = new Locale("pt", "BR"); //define a região
-        NumberFormat moeda = NumberFormat.getNumberInstance();
-
         double populacaoA= 5.000000, populacaoB = 7.000000;
         double paisA = 0.03, paisB = 0.02;
         double porcA, porcB, total;
